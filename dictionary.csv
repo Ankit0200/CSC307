@@ -1,0 +1,100 @@
+term,billing_code,definition
+abdominalgia,R10.9,Pain in the abdominal region without further specification
+abscess,L02.9,Localized collection of pus in body tissue caused by bacterial infection
+acne,L70.0,Chronic inflammatory disorder of the skin's hair follicles and sebaceous glands
+adenocarcinoma,C80.1,Malignant tumor arising from glandular epithelial tissue
+adenoma,D36.9,Benign tumor of glandular origin
+alopecia,L65.9,Partial or complete loss of hair from areas where it normally grows
+alzheimer,G30.9,Progressive neurodegenerative disease causing memory loss and cognitive decline
+anemia,D64.9,Condition where there are insufficient healthy red blood cells to carry oxygen
+aneurysm,I72.9,Localized bulge or weakness in the wall of a blood vessel
+angina,I20.9,Chest pain caused by reduced blood flow to the heart muscle
+appendicitis,K37,Inflammation of the appendix
+arrhythmia,I49.9,Irregular heartbeat due to disruption of normal electrical conduction in the heart
+arthritis,M13.9,Inflammation of one or more joints causing pain and stiffness
+asthma,J45.9,Chronic condition causing airway inflammation and narrowing
+atherosclerosis,I70.9,Hardening and narrowing of arteries due to plaque buildup
+atrophy,M62.50,Wasting or decrease in size of a body organ or tissue
+bronchitis,J40,Inflammation of the bronchial tubes carrying air to the lungs
+bursitis,M71.9,Inflammation of bursae – small fluid-filled sacs cushioning bones and tendons
+carcinoma,C80.1,Malignant cancer arising from epithelial cells
+cardiac,I51.9,Relating to or affecting the heart
+cardiomyopathy,I42.9,Disease of the heart muscle affecting its size
+cataract,H26.9,Clouding of the lens in the eye leading to decreased vision
+cellulitis,L03.90,Bacterial skin infection causing redness
+cholecystitis,K81.9,Inflammation of the gallbladder often due to gallstones
+cholesterol,E78.5,Elevated levels of cholesterol lipids in the bloodstream
+colitis,K52.9,Inflammation of the inner lining of the colon
+conjunctivitis,H10.9,Inflammation of the conjunctiva causing redness and discharge
+coronary,I25.10,Relating to the arteries that supply blood to the heart
+cystitis,N30.9,Inflammation of the urinary bladder usually due to bacterial infection
+dementia,F03.90,Chronic decline in memory and cognitive function interfering with daily life
+dermatitis,L30.9,Inflammation of the skin causing itching
+diabetes,E11.9,Chronic metabolic disorder characterized by high blood sugar levels
+diarrhea,R19.7,Loose or watery stools occurring more frequently than usual
+dyspnea,R06.09,Difficulty or labored breathing; shortness of breath
+eczema,L30.9,Chronic skin condition causing itchy inflamed patches of skin
+edema,R60.9,Abnormal accumulation of fluid in body tissues causing swelling
+embolism,I74.9,Obstruction of a blood vessel by a clot or other material
+emphysema,J43.9,Chronic lung disease involving damage to the alveoli reducing lung function
+encephalitis,G04.90,Inflammation of the brain usually caused by viral infection
+endocarditis,I38,Inflammation of the inner lining of the heart chambers and valves
+epilepsy,G40.909,Neurological disorder causing recurrent unprovoked seizures
+fibrillation,I49.9,Rapid irregular contractions of heart muscle fibers
+fibromyalgia,M79.3,Widespread musculoskeletal pain and fatigue disorder
+fracture,S09.90XA,Break or crack in a bone
+gastritis,K29.70,Inflammation of the stomach lining
+gastroenteritis,K52.9,Inflammation of the stomach and intestines usually from infection
+glaucoma,H40.9,Group of eye conditions causing optic nerve damage due to increased eye pressure
+gout,M10.9,Type of arthritis caused by elevated uric acid and crystal deposits in joints
+hematoma,M79.81,Localized collection of blood outside blood vessels due to injury
+hepatitis,K75.9,Inflammation of the liver often caused by viral infection
+hernia,K46.9,Protrusion of an organ through the wall of the cavity that normally contains it
+hypertension,I10,Persistently elevated blood pressure in the arteries
+hyperthyroidism,E05.90,Overproduction of thyroid hormone causing increased metabolic rate
+hypoglycemia,E16.0,Abnormally low blood glucose levels
+hypothyroidism,E03.9,Underproduction of thyroid hormone causing decreased metabolic rate
+immunoglobin,1012,rabies
+infarction,I21.9,Tissue death caused by loss of blood supply
+influenza,J11.1,Contagious respiratory illness caused by influenza viruses
+insomnia,G47.00,Persistent difficulty falling or staying asleep
+ischemia,I99.8,Insufficient blood supply to a tissue or organ causing oxygen deprivation
+jaundice,R17,Yellowing of the skin and whites of the eyes due to elevated bilirubin
+keratitis,H16.9,Inflammation of the cornea of the eye
+laryngitis,J04.0,Inflammation of the larynx causing hoarseness or loss of voice
+leukemia,C95.90,Cancer of blood-forming tissues resulting in abnormal blood cells
+lupus,M32.9,Autoimmune disease where the immune system attacks healthy tissue
+lymphoma,C85.90,Cancer originating in lymphatic system cells
+melanoma,C43.9,Most serious type of skin cancer developing from pigment-containing cells
+meningitis,G03.9,Inflammation of membranes surrounding the brain and spinal cord
+migraine,G43.909,Recurring severe headache often accompanied by nausea and light sensitivity
+myocardial,I21.9,Relating to the muscular tissue of the heart
+nephritis,N05.9,Inflammation of the kidneys affecting their ability to filter waste
+neuropathy,G62.9,Disease or dysfunction of peripheral nerves causing weakness or numbness
+obesity,E66.9,Excessive body fat accumulation posing health risks
+osteoarthritis,M19.90,Degenerative joint disease causing cartilage breakdown and joint pain
+osteoporosis,M81.0,Condition of reduced bone density increasing fracture risk
+otitis,H92.0,Inflammation or infection of the ear
+pancreatitis,K86.89,Inflammation of the pancreas causing abdominal pain
+paralysis,G83.9,Loss of muscle function in part of the body
+parkinson,G20,Progressive neurological disorder affecting movement and balance
+pericarditis,I30.9,Inflammation of the pericardium – the sac surrounding the heart
+peritonitis,K65.9,Inflammation of the peritoneum lining the abdominal cavity
+pharyngitis,J02.9,Inflammation of the pharynx causing sore throat
+phlebitis,I80.9,Inflammation of a vein usually in the legs
+pneumonia,J18.9,Infection causing inflammation in the air sacs of the lungs
+polyp,K63.5,Small growth protruding from a mucous membrane
+psoriasis,L40.9,Autoimmune condition causing rapid skin cell buildup and scaling
+rhinitis,J31.0,Inflammation of the mucous membrane of the nose
+scoliosis,M41.9,Abnormal lateral curvature of the spine
+sinusitis,J32.9,Inflammation of the sinuses usually following respiratory infection
+tachycardia,I47.2,Abnormally fast heart rate exceeding 100 beats per minute
+tendinitis,M77.9,Inflammation of a tendon causing pain near a joint
+thrombosis,I82.90,Formation of a blood clot within a blood vessel
+tonsillitis,J35.01,Inflammation of the tonsils usually due to bacterial or viral infection
+tuberculosis,A15.9,Infectious disease caused by Mycobacterium tuberculosis affecting the lungs
+ulcer,K27.9,Sore or lesion on the skin or mucous membrane
+urticaria,L50.9,Skin condition causing itchy raised welts also known as hives
+vasculitis,I77.6,Inflammation of blood vessel walls
+vertigo,H81.39,Sensation of spinning or dizziness due to inner ear disturbance
+xerosis,L85.4,Updated definition
