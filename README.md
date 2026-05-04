@@ -1,6 +1,6 @@
-# MedTrie
+# MedTrie Auto-Completer
 
-MedTrie is a C++ command-line application for storing and searching medical terminology with ICD-10 billing codes and definitions. It uses a trie data structure to support fast prefix-based auto-complete, exact term lookup, insertion, updates, deletion, and CSV persistence.
+MedTrie Auto-Completer is a C++ command-line application for storing and searching medical terminology with ICD-10 billing codes and definitions. It uses a trie data structure to support fast prefix-based auto-complete, exact term lookup, insertion, updates, deletion, and CSV persistence.
 
 ## Features
 
