@@ -99,20 +99,20 @@ Once launched, the interactive CLI presents the following options:
 
 | Option | Feature |
 |--------|---------|
-| `1` | Auto-complete — retrieve all terms matching a given prefix |
-| `2` | Exact term lookup — view ICD-10 code and definition |
-| `3` | Insert new term — add a medical term, billing code, and definition |
-| `4` | Update existing term — modify the billing code or definition |
-| `5` | Delete a term — remove a term from the dictionary |
-| `6` | Save dictionary to file — persist current state to CSV |
-| `0` | Exit — optionally save before quitting |
+| `1` | Auto-complete - retrieve all terms matching a given prefix |
+| `2` | Exact term lookup - view ICD-10 code and definition |
+| `3` | Insert new term - add a medical term, billing code, and definition |
+| `4` | Update existing term - modify the billing code or definition |
+| `5` | Delete a term - remove a term from the dictionary |
+| `6` | Save dictionary to file - persist current state to CSV |
+| `0` | Exit - optionally save before quitting |
 
 ---
 
 ## 5. Troubleshooting / Known Issues
 
-* **`command not found: make`** — Install `make` via your package manager (`apt`, `brew`, etc.) as shown in Section 2.
-* **`g++: error: unrecognized command-line option '-std=c++17'`** — Your GCC version is too old. Upgrade to GCC 9 or later.
-* **Dictionary not loading** — Ensure `dictionary.csv` is in the same directory as the executable, or pass the correct path as a command-line argument. The file must follow the format `term,billing_code,definition` with an optional header row.
-* **ANSI color codes not displaying** — If running on a terminal that does not support ANSI escape codes (e.g., some Windows terminals without WSL), color formatting will appear as raw escape sequences. Use Windows Terminal, WSL, or a compatible terminal emulator.
-* **Non-alpha characters stripped from terms** — The Trie normalizes all input to lowercase and removes non-alphabetic characters (spaces, hyphens, digits). Searching for `"type-2"` and `"type2"` will yield the same result, and terms are stored without those characters.
+* **`command not found: make`** - Install `make` via your package manager (`apt`, `brew`, etc.) as shown in Section 2.
+* **`g++: error: unrecognized command-line option '-std=c++17'`** - Your GCC version is too old. Upgrade to GCC 9 or later.
+* **Dictionary not loading** - Ensure `dictionary.csv` is in the same directory as the executable, or pass the correct path as a command-line argument. The file must follow the format `term,billing_code,definition` with an optional header row.
+* **ANSI color codes not displaying** - If running on a terminal that does not support ANSI escape codes (e.g., some Windows terminals without WSL), color formatting will appear as raw escape sequences. Use Windows Terminal, WSL, or a compatible terminal emulator.
+* **Non-alpha characters stripped from terms** - The Trie normalizes all input to lowercase and removes non-alphabetic characters (spaces, hyphens, digits). Searching for `"type-2"` and `"type2"` will yield the same result, and terms are stored without those characters.
